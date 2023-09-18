@@ -1,0 +1,13 @@
+a =7
+
+if a ==10:
+ print("it worked")
+
+ p = True
+ q = True
+ print(p ^ q)
+ print(p or q)
+ print(not (p ^ q))
+# > >= < <= !=
+print(type(not (p ^ q)))
+
